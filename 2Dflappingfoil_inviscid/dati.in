@@ -1,0 +1,7 @@
+.00025 6.24 5            ! dt tfin ndtusc
+1. .666                  ! lambda dp .666 
+.909 0.                  ! u0,beta             St=(.477/u0)
+3. 3.02                  ! rlh,omega       
+0. 1.5707                ! alfah,phi_a  -.3491
+.5 2. 2                  ! perc dec enne       si suggerisce (dec=2., enne=2)
+33.7168147 40.           ! t1 t2            deve essere (t2-t1=6.283185308...)

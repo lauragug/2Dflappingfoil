@@ -1,0 +1,32 @@
+0                ! IOPT
+0                ! ICIL
+.667             ! dis
+.075             ! e .04 
+.038             ! small .07 
+0.3665           ! Reduced frequency
+1                ! Nmodes
+0.	         ! beta	
+3.               ! Kc 
+0.               ! Alphatau
+-35.             ! Alpha_amp 1.047
+90.              ! Alpha_phi
+100.7927641      ! RE
+45.              ! R max
+12.              ! R int
+512,500          ! Nteta, Nzeta
+10000,12.56637   ! Nt_ciclo, T_fin
+100,10           ! Nusc1, ,Itusc
+1.,2.
+1.,15.1388
+
+
+
+
+
+
+
+
+
+
+
+
